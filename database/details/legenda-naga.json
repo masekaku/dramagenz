@@ -1,0 +1,20 @@
+{
+  "id": "001",
+  "title": "Legenda Naga Sakti",
+  "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_.../s1600/poster_contoh.jpg",
+  "synopsis": "Seorang pendekar muda menemukan pedang naga di gunung suci...",
+  "genres": ["Action", "Wuxia"],
+  "status": "Ongoing",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Awal Mula",
+      "video_url": "https://qu.ax/contoh_video.mp4"
+    },
+    {
+      "episode": 2,
+      "title": "Pertemuan",
+      "video_url": "https://qu.ax/contoh_video2.mp4"
+    }
+  ]
+}
