@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Tambahan agar background default hitam (sesuai tema drama) */
 body {
-  background-color: #0f172a; /* Dark Mode default */
-  color: white;
+  background-color: #000;
+  color: #fff;
 }
